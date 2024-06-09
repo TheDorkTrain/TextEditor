@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"> <polygon points="60,150 90,125 120,150 150,125 180,150 210,125 240,150 210,25 180,60 150,25 120,60 90,25 " stroke="black" stroke-width="6" fill="red" />
+         <text x="50%" y="50%" font-size="45" font-family="cursive" fill="white" text-anchor="middle" dominant-baseline="middle">Texty</text>
+          </svg>
